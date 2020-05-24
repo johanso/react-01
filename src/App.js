@@ -58,7 +58,7 @@ return (
          <Grid item md={6} xs={12}>
             <Box mt={3} mb={2}>
                <Typography variant="h6" gutterBottom >
-                  { contacts.length > 0 ? 'No tienes contactos agregados' : 'Lista de contactos' }
+                  { contacts.length > 0 ? 'Lista de contactos' : 'No tienes contactos agregados' }
                </Typography>
             </Box>
 
